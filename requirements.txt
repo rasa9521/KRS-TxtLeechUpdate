@@ -33,3 +33,4 @@ umongo
 speedtest-cli
 bs4
 httpx
+Flask
